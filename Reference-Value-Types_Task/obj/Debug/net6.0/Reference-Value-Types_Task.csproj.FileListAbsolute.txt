@@ -1,0 +1,14 @@
+C:\C# (PB-202)\Reference-Value-Types_Task\Reference-Value-Types_Task\bin\Debug\net6.0\Reference-Value-Types_Task.exe
+C:\C# (PB-202)\Reference-Value-Types_Task\Reference-Value-Types_Task\bin\Debug\net6.0\Reference-Value-Types_Task.deps.json
+C:\C# (PB-202)\Reference-Value-Types_Task\Reference-Value-Types_Task\bin\Debug\net6.0\Reference-Value-Types_Task.runtimeconfig.json
+C:\C# (PB-202)\Reference-Value-Types_Task\Reference-Value-Types_Task\bin\Debug\net6.0\Reference-Value-Types_Task.dll
+C:\C# (PB-202)\Reference-Value-Types_Task\Reference-Value-Types_Task\bin\Debug\net6.0\Reference-Value-Types_Task.pdb
+C:\C# (PB-202)\Reference-Value-Types_Task\Reference-Value-Types_Task\obj\Debug\net6.0\Reference-Value-Types_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# (PB-202)\Reference-Value-Types_Task\Reference-Value-Types_Task\obj\Debug\net6.0\Reference-Value-Types_Task.AssemblyInfoInputs.cache
+C:\C# (PB-202)\Reference-Value-Types_Task\Reference-Value-Types_Task\obj\Debug\net6.0\Reference-Value-Types_Task.AssemblyInfo.cs
+C:\C# (PB-202)\Reference-Value-Types_Task\Reference-Value-Types_Task\obj\Debug\net6.0\Reference-Value-Types_Task.csproj.CoreCompileInputs.cache
+C:\C# (PB-202)\Reference-Value-Types_Task\Reference-Value-Types_Task\obj\Debug\net6.0\Reference-Value-Types_Task.dll
+C:\C# (PB-202)\Reference-Value-Types_Task\Reference-Value-Types_Task\obj\Debug\net6.0\refint\Reference-Value-Types_Task.dll
+C:\C# (PB-202)\Reference-Value-Types_Task\Reference-Value-Types_Task\obj\Debug\net6.0\Reference-Value-Types_Task.pdb
+C:\C# (PB-202)\Reference-Value-Types_Task\Reference-Value-Types_Task\obj\Debug\net6.0\Reference-Value-Types_Task.genruntimeconfig.cache
+C:\C# (PB-202)\Reference-Value-Types_Task\Reference-Value-Types_Task\obj\Debug\net6.0\ref\Reference-Value-Types_Task.dll
